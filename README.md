@@ -1,2 +1,2 @@
-Enlace al sitio web:
+Enlace al sitio Web:
 https://anthonypambi.github.io/menu-restaurante/
